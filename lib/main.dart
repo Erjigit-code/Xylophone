@@ -36,7 +36,7 @@ class CounterScreen extends State<CounterScreenState> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Счётчик'),
+          title: Text('Счётчикnvdkenvkednvkenvk'),
         ),
         body: Center(
           child: Row(
